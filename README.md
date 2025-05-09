@@ -20,3 +20,21 @@
 
 ## 📁 Folder Structure
 
+---
+
+## 🚀 Getting Started
+
+### 🔧 Step 1: Download
+- Click the green **Code** button above and select **Download ZIP**.
+- Extract the ZIP file to any folder on your computer.
+🌐 Step 2: Load Extension into Chrome
+-Open Chrome and go to chrome://extensions/
+-Enable Developer Mode (top-right toggle)
+-Click Load unpacked
+-Select the extracted folder (with manifest.json inside)
+-✅ The extension will now appear in your toolbar. You can pin it for easy access!
+
+
+
+
+
